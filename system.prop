@@ -1,0 +1,6 @@
+ro.display.series=Xperia XZ3
+ro.product.board=sdm845
+ro.board.platform=sdm845
+vendor.gatekeeper.disable_spu=true
+ro.adb.secure=0
+fbe.metadata.wrappedkey=true
